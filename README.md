@@ -1,4 +1,4 @@
-(https://github.com/Bili1salau/SETTING-UP-A-CYBERSECURITY-HOME-LAB) Biliaminu Biola Salawu - Cybersecurity Analyst
+ # Biliaminu Biola Salawu - Cybersecurity Analyst
 
 👋 Hello! I’m **Biliaminu Biola Salawu**, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
@@ -57,7 +57,7 @@
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](#) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo]((https://github.com/Bili1salau/SETTING-UP-A-CYBERSECURITY-HOME-LAB)) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
