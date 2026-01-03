@@ -63,7 +63,7 @@
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Bili1salau/Security-Policies-Developments) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Bili1salau/Vulnerability-Scan-Report-on-Metasploit-and-windows-8.1-client) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Bili1salau/Splunk_Alert_Project_Report) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/Bili1salau/Risk-Assessment/blob/main/Risk_Assessment_Report_.pdf) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Bili1salau/Threat-Hunting-in-The-HealthCare-Sector-Using-MITRE-ATTACK) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Bili1salau/Phishing-Simulation) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
@@ -71,6 +71,7 @@
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | 14-Threat-Modelling | OSWAP & Microsoft threat modelling | [View Repo](https://github.com/Bili1salau/Threat-Modelling-using-OSWAP-and-Microsoft-threat-modelling-tools) |
+| 15-Wtreshark-analysis | network-monitorin | [View Repo](#) |
 
 ---
 
