@@ -64,13 +64,13 @@
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Bili1salau/Splunk_Alert_Project_Report) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Bili1salau/Threat-Hunting-in-The-HealthCare-Sector-Using-MITRE-ATTACK) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Bili1salau/Phishing-Simulation) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14-mitre-threat-hunt | TThreat modelling scripts | [View Repo](https://github.com/Bili1salau/Threat-Modelling-using-OSWAP-and-Microsoft-threat-modelling-tools) |
+| 14-Threat-Modelling | OSWAP & Microsoft threat modelling | [View Repo](https://github.com/Bili1salau/Threat-Modelling-using-OSWAP-and-Microsoft-threat-modelling-tools) |
 
 ---
 
