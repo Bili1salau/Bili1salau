@@ -70,7 +70,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+| 14-mitre-threat-hunt | TThreat modelling scripts | [View Repo](https://github.com/Bili1salau/Threat-Modelling-using-OSWAP-and-Microsoft-threat-modelling-tools) |
 
 ---
 
