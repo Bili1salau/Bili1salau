@@ -67,7 +67,7 @@
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Bili1salau/Threat-Hunting-in-The-HealthCare-Sector-Using-MITRE-ATTACK) |
 | 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Bili1salau/Phishing-Simulation) |
 | 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Bili1salau/Phishing-email-Forensics/blob/main/Phishing_mail_Analysis.pdf) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/Bili1salau/Linux-permission-Audit/blob/main/Linux_Permissions_AUDIT_Report.pdf) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 | 14-Threat-Modelling | OSWAP & Microsoftthreat modellingtool | [View Repo](https://github.com/Bili1salau/Threat-Modelling-using-OSWAP-and-Microsoft-threat-modelling-tools) |
